@@ -1,0 +1,30 @@
+# UIDAI Data Hackathon - Python Dependencies
+# Install: pip install -r requirements.txt
+# WINDOWS COMPATIBLE VERSION - Uses pre-built wheels
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Statistical Analysis
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Machine Learning (Optional)
+scikit-learn>=1.3.0
+
+# Jupyter Notebook
+jupyter
+notebook
+
+# Utilities
+openpyxl  # For Excel files
+python-dateutil
+
+# Report Generation
+fpdf2  # For PDF generation if needed
